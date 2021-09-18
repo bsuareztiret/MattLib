@@ -7,7 +7,6 @@ import {
 import NotFound from '../components/pages/404';
 import Bio from '../components/pages/bio';
 import Contact from '../components/pages/contact';
-import Header from '../components/header';
 import Home from '../components/pages/home';
 import BenyHeader from './header';
 
